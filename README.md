@@ -1,4 +1,4 @@
-# The Architect: Anonymous Artifact Repository
+# The Architect: Anonymous Repository
 
 This repository contains the spreadsheet artifact and Office Script used in the paper submission for anonymous review.
 
